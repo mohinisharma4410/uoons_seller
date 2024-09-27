@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "546605812428",
+    "project_id": "uoonsseller-b31ca",
+    "storage_bucket": "uoonsseller-b31ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:546605812428:android:9c8393ed245d6659ddd069",
+        "android_client_info": {
+          "package_name": "com.uoons.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdH7OR2xHXJebHnAxxxeQsbq_IoOFRPwA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
